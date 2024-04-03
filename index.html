@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KONIEC KURESTWA OLSZTYN</title>
+</head>
+<body>
+    <h1>KONIEC ERY FRAJERA OLSZTYN</h1>
+    <pre id="text-content">Ładowanie...</pre>
+
+    <script>
+        function loadText() {
+            const url = "https://raw.githubusercontent.com/KoniecEryFrajera/KoniecEryFrajeraOlsztyn/main/olsztyn_text.txt";
+
+            fetch(url)
+                .then(response => response.text())
+                .then(data => {
+                    document.getElementById("text-content").innerText = data;
+                })
+                .catch(error => console.error('Błąd przy ładowaniu pliku tekstowego:', error));
+        }
+
+        window.onload = loadText;
+    </script>
+</body>
+</html>
