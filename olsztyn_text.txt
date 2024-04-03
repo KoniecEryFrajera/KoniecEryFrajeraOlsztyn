@@ -1,5 +1,3 @@
-Linia     2207: 1766866,965815493,Jacek,Śniady,39959,Poland,Warmian-Masurian 
-Voivodeship,Olsztyn,Towarowa 17B,10-416,721915743 
 
 Linia    12608: 851283,620972030,Antoni,Adamczyk,39959,Poland,Warmian-Masurian 
 Voivodeship,Olsztyn,Wawrzyczka 1L,10-762,787086532 
@@ -833,9 +831,6 @@ Voivodeship,olsztyn,Jacka Kuronia 9/3,10-166,797308587
 Linia 1583959: 740558,158965969,Jakub,Radziewicz,39959,Poland,Warmian-Masurian 
 Voivodeship,Olsztynek,Klonowa 8,11-015,883332759 
 
-Linia 1585771: 1838400,217717565,Piotr,Guzowski,39959,Poland,Warmian-Masurian 
-Voivodeship,Olsztyn,Rumiankowa 26 Bartąg,10-687,570880900 
-
 Linia 1596163: 1264808,190736501,Karol,Koszewski,39959,Poland,Warmian-Masurian 
 Voivodeship,Olsztyn,Wachowskiego 2/5,10-691,+48726391520 
 
@@ -1264,9 +1259,6 @@ Voivodeship,Olsztynek,Grunwaldzka 4,11-015,516943669
 
 Linia 2558643: 1296166,888232486,Kajetan,Zbutowicz,39959,Poland,Warmian-Masurian 
 Voivodeship,olsztyn,69,orłowicza 8,10-684,505273453 
-
-Linia     2207: 1766866,965815493,Jacek,Śniady,39959,Poland,Warmian-Masurian 
-Voivodeship,Olsztyn,Towarowa 17B,10-416,721915743 
 
 Linia    12608: 851283,620972030,Antoni,Adamczyk,39959,Poland,Warmian-Masurian 
 Voivodeship,Olsztyn,Wawrzyczka 1L,10-762,787086532 
@@ -2098,9 +2090,6 @@ Voivodeship,olsztyn,Jacka Kuronia 9/3,10-166,797308587
 
 Linia 1583959: 740558,158965969,Jakub,Radziewicz,39959,Poland,Warmian-Masurian 
 Voivodeship,Olsztynek,Klonowa 8,11-015,883332759 
-
-Linia 1585771: 1838400,217717565,Piotr,Guzowski,39959,Poland,Warmian-Masurian 
-Voivodeship,Olsztyn,Rumiankowa 26 Bartąg,10-687,570880900 
 
 Linia 1596163: 1264808,190736501,Karol,Koszewski,39959,Poland,Warmian-Masurian 
 Voivodeship,Olsztyn,Wachowskiego 2/5,10-691,+48726391520 
